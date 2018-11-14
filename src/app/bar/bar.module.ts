@@ -2,7 +2,6 @@ import { Component, NgModule } from '@angular/core';
 import { RouterModule } from '@angular/router';
 import { CommonModule } from '@angular/common';
 import { BarService } from '../bar.service';
-import { SharedService } from '../shared.service';
 
 @Component({
   template: `This is the Bar View`
